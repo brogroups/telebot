@@ -2,7 +2,7 @@ const TelegramBot = require('node-telegram-bot-api');
 const fs = require('fs').promises;
 
 const BOT_TOKEN = '8496237445:AAE4jnJyJmyLK2boKvrlQ31tUZIVu8GBOE0';
-const MAIN_ADMIN_ID = '5170723860';
+const MAIN_ADMIN_ID = '6561354091';
 
 
 
